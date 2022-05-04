@@ -1,6 +1,6 @@
-Storykit is a video making tool that makes your video creation fun, simple, collaborative and fast. Storykit lets you create stunning, brand-consistent videos in minutes. Working in the cloud means you can reach your projects from anywhere, without crashing your computer.
+Storykit is a complete video creator here to change how you work with video. Forever.
 
-A video creating workflow tailor-made for organizations!
+Video for everything. Video for everyone.
 
 ---
 
